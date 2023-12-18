@@ -2,7 +2,7 @@
 
 <p align="left">
     <a href="https://arxiv.org/abs/2312.09601"><img src="https://img.shields.io/badge/arXiv-2312.02120-b31b1b.svg?style=for-the-badge">
-    <a href="https://opensource.org/license/mit/"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge">
+<!--     <a href="https://opensource.org/license/mit/"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge"> -->
 </p>
 
 <p align="left">
