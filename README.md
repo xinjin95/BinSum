@@ -33,13 +33,12 @@ Coming soon.
 
 If you find BinSum useful, please consider citing our paper:
 
+**BibTeX**:
 ```plaintext
-@misc{jin2023binary,
-      title={Binary Code Summarization: Benchmarking ChatGPT/GPT-4 and Other Large Language Models}, 
-      author={Xin Jin and Jonathan Larson and Weiwei Yang and Zhiqiang Lin},
-      year={2023},
-      eprint={2312.09601},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
+@article{jin2023binary,
+  title={Binary Code Summarization: Benchmarking ChatGPT/GPT-4 and Other Large Language Models},
+  author={Xin Jin and Jonathan Larson and Weiwei Yang and Zhiqiang Lin},
+  journal={arXiv preprint arXiv:2312.09601},
+  year={2023},
 }
 ```
