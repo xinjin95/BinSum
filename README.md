@@ -31,7 +31,7 @@ Coming soon.
 
 ## **Citation**
 
-If you find SymLM useful, please consider citing our paper:
+If you find BinSum useful, please consider citing our paper:
 
 ```plaintext
 @misc{jin2023binary,
